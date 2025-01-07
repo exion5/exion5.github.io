@@ -1,10 +1,10 @@
 ---
-title: Another page
-description: This is just another page
+title: Handheld Console Project
+description: Final project using all of the skills learned over the duration of the TEJ3MR course.
 ---
 
-## Welcome to another page
+# Design Process
 
-_hello_
+fjoashjioafiaifhasaa
 
 [Previous Page](./)
