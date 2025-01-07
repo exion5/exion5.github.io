@@ -15,8 +15,6 @@ text
 
 we did a lot of work
 
-(/assets/img/imagename.jpeg)
-
 ### nothing
 
 text
