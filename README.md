@@ -1,19 +1,21 @@
-# Aspiring Engineering Students
+---
+layout: default
+---
 
-#### Words and stuff
+**TEJ3MR Final Project**
 
-## Education
-- Port Credit Secondary School (_2022-Present_)								       		
+[Link](./tej3mr.html).
 
-## Work Experience
-**we unemployed (_March 2008 - Present_)**
-- insert text
+There should be whitespace between paragraphs.
 
-## Projects
-### none
-text
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-we did a lot of work
+# Header 1
 
-### nothing
-text
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
