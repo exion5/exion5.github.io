@@ -18,11 +18,19 @@ addacahckuhac
 
 ## Materials
 
-ofhaufhduahfhahkfhihauichijakhncnacbkjbac
-
-afnhahjcbkjabcbacacjaca
-
-addacahckuhac
+- Raspberry Pi 4 Model B, 4GB RAM
+- Integrated Speaker
+- PiSugar 2 Pro
+- Tactile 8mm Buttons x10
+- Bush buttons x4
+- SD Card
+- Breadboard
+- M-F Jumper Wires
+- 40-Pins (2x20) Female GPIO Headeer
+- Screws
+- Standoffs
+- Spacers
+- Metal Heatsink
 
 ## Specifications and Hardware
 
