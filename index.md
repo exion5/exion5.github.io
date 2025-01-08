@@ -8,7 +8,7 @@ description: Aspiring Engineering Student
 ehlsjfojfankaf
 
 ### Education
-- Port Credit Secondary School (_September 2022 - Present_) ![PCSS](/assets/pcss-image.png)
+- Port Credit Secondary School (_September 2022 - Present_) [PCSS](/assets/pcss-image.png)
 
 # Projects
 
