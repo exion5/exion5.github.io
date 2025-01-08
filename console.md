@@ -7,6 +7,7 @@ Hello! Welcome to the documentation of the handheld console in all of its develo
 
 # Table of Contents
 
-fjoashjioafiaifhasaa
+1. TOC
+{:toc}
 
 [Previous Page](./)
