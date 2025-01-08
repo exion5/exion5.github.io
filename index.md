@@ -18,7 +18,7 @@ ehlsjfojfankaf
 
 ### Handheld Console (_January 2025_)
 
-[More info](./tej3mr.html)
+[More info](./console.html)
 
 ### Smart Lights System (_November 2024_)
 
