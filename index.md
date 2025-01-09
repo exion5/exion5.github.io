@@ -5,13 +5,6 @@ description: Aspiring Engineering Student
 
 # About Me
 
-ehlsjfojfankaf
-
-### Education
-- Port Credit Secondary School (_September 2022 - Present_)
-
-### Additional Info
-
 [More info](./aboutme.html)
 
 # Projects
