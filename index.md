@@ -3,16 +3,20 @@ title: Ethan Xiong
 description: Aspiring Engineering Student
 ---
 
-# About Me
+# Contact Me!
+
+skhfhahjadhhahjad
+
+## About Me
 
 [More info](./aboutme.html)
 
-# Projects
+## Projects
 
-### Handheld Console (_January 2025_)
+#### Handheld Console (_January 2025_)
 
 [More info](./console.html)
 
-### Smart Lights System (_November 2024_)
+#### Smart Lights System (_November 2024_)
 
 will add link later
