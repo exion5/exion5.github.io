@@ -14,6 +14,9 @@ The main idea of the electronic project is to create an open sourced hardware us
 
 I wanted to make something that used all of the skills that were built in the TEJ3MR course including: soldering, 3D modeling and circuits. Creating a console creates a difficult yet entertaining project that will further strengthen my skills in engineering.
 
+![Console](/assets/handheld%20console.webp)
+[Link to Photo](https://www.stuff.tv/wp-content/uploads/sites/2/2023/12/Best-handheld-consoles-list-lead.jpg)
+
 ## Materials
 
 - Raspberry Pi 4 Model B, 4GB RAM
