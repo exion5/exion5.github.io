@@ -11,6 +11,8 @@ The main idea of this project is to create an unique handheld device using a Ras
 
 I wanted to make something that used all of the skills that were built in the TEJ3MR course including: soldering, 3D modeling and circuits. Creating a console creates a difficult yet entertaining project that will further strengthen my skills in engineering.
 
+![Console Picture](./assets/handheld%20console.webp)
+
 ## Materials
 - Raspbery Pi 4B w/ SD card & Heatsink
 - Arduino Pro Micro

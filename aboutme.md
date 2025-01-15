@@ -15,6 +15,8 @@ Since I was young, I loved playing video games. This passion developed into a ho
 ### Education
 - Port Credit Secondary School (_September 2022 - Present_)
 
+![PCSS](./assets/pcss-image.png)
+
 ### Awards & Qualifications
 - PCSS Senior Badminton MVP (_2024_)
 - Basic First Aid (_2023_)
