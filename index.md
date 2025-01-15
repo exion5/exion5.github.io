@@ -5,7 +5,8 @@ description: Aspiring Engineering Student
 
 # Contact Me!
 
-skhfhahjadhhahjad
+<img src="./assets/pcss-image.png" width="100" height="100"> <a href="mailto:788513@pdsb.com">Contact Ethan Xiong</a>
+
 
 ## About Me
 
