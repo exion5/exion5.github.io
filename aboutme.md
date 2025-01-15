@@ -14,6 +14,7 @@ Since I was young, I loved playing video games. This passion developed into a ho
 
 ### Education
 - Port Credit Secondary School (_September 2022 - Present_)
+
 <img src="./assets/pcss-image.png" width="200" height="200">
 
 ### Awards & Qualifications
