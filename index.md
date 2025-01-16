@@ -3,7 +3,7 @@ title: Ethan Xiong
 description: Aspiring Engineering Student
 ---
 
-<h1>Contact Me!</h1>
+# Contact Me!
 
 <p align="center">
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=788513@pdsb.net&tf=cm">Contact Ethan Xiong - 788513@pdsb.net</a>
@@ -12,13 +12,9 @@ description: Aspiring Engineering Student
     <img src="./assets/gmail.png" width="100" height="75">
 </p>
 
-<p align="center">
-    <h2>About Me</h2>
-</p>
+## About Me
 
-<p align="center">
-    <a href="./aboutme.html">More Info</a>
-</p>
+[More info](./aboutme.html)
 
 ## Projects
 
