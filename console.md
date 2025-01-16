@@ -28,6 +28,8 @@ One of the core aspects of gaming is being able to control your movement in an e
 
 Esentially, when you click on a button from the gamepad, it sends a signal to the Arduino which then gives information to the Raspberry Pi to inplement whatever is clicked in real life.
 
+![Controller1](./assets/Controller1.jpeg)
+
 ## Screen & Power
 Another core aspect of gaming is being able to play your games comfortably. This is why I decided to make two configurations for the handheld; Portable and Non-Portable.
 
