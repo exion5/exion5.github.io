@@ -10,6 +10,9 @@ description: Aspiring Engineering Student
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=788513@pdsb.net&tf=cm">Contact Ethan Xiong - 788513@pdsb.net</a>
 </p>
 
+1. TOC
+{:toc}
+
 ## Projects
 #### Handheld Console (_January 2025_)
 [More info](./console.html)
@@ -18,10 +21,6 @@ description: Aspiring Engineering Student
 will add info later
 
 ## About Me
-
-1. TOC
-{:toc}
-
 ### Who is Ethan Xiong?
 
 Currently, I am a high school student with a passion in engineering and the desire to create innovative designs in my career. 
