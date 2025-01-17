@@ -3,15 +3,6 @@ title: Ethan Xiong
 description: Aspiring Engineering Student
 ---
 
-<p align="center">
-    <img src="./assets/gmail.png" width="100" height="75">
-</p>
-<p align="center">
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=788513@pdsb.net&tf=cm">Contact Ethan Xiong - 788513@pdsb.net</a>
-</p>
-
-* * *
-
 1. TOC
 {:toc}
 
@@ -51,3 +42,12 @@ Since I was young, I loved playing video games. This passion developed into a ho
 ### Future Goals
 
 zdjkoahafh
+
+* * *
+
+<p align="center">
+    <img src="./assets/gmail.png" width="100" height="75">
+</p>
+<p align="center">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=788513@pdsb.net&tf=cm">Contact Ethan Xiong - 788513@pdsb.net</a>
+</p>
