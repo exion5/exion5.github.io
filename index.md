@@ -30,7 +30,7 @@ will add info later
 ### Who is Ethan Xiong?
 Currently, I am a high school student with a passion in engineering and the desire to create innovative designs in my career. 
 
-Since I was young, I loved playing video games. This passion developed into a hobby of learning about computers. Overtime, my knowledge expanded and I realized a career in engineering is what I wanted. Solving problems and critical thinking were valuable skills I learned when I was younger that have transitioned into giving me the experience to reach to become an engineer.
+Since I was young, I loved playing video games. This passion developed into a hobby of learning about computers. Overtime, my knowledge expanded and I realized a career in engineering is what I wanted. Solving problems and critical thinking were valuable skills I learned when I was younger that have transitioned into giving me the experience needed to make steps to become an engineer.
 
 ### Education
 - Port Credit Secondary School (_September 2022 - Present_)
