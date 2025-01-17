@@ -19,6 +19,8 @@ description: Aspiring Engineering Student
 
 ## Projects
 #### Handheld Console (_January 2025_)
+In the TEJ3MR course, I planned out and created a handheld gaming console for my final project in the course. This project demonstrated my ability to design and construct an electronic device.
+
 [More info](./console.html)
 
 #### Smart Lights System (_November 2024_)
@@ -26,7 +28,6 @@ will add info later
 
 ## About Me
 ### Who is Ethan Xiong?
-
 Currently, I am a high school student with a passion in engineering and the desire to create innovative designs in my career. 
 
 Since I was young, I loved playing video games. This passion developed into a hobby of learning about computers. Overtime, my knowledge expanded and I realized a career in engineering is what I wanted. Solving problems and critical thinking were valuable skills I learned when I was younger that have transitioned into giving me the experience to reach to become an engineer.
