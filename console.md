@@ -26,14 +26,14 @@ I wanted to make something that used all of the skills that were built in the TE
 - Thumbsticks
 - PerfBoards
 
-![ConsoleMaterials](./assets/text.jpeg)
+![Raspberry Pi](./assets/raspberrypi.jpg.jpeg)
 
 ## Controls
 One of the core aspects of gaming is being able to control your movement in an easy way. In my handheld gaming console, I used a microcontroller (Arduino Pro Micro) to control the gamepad.
 
 Essentially, when you click on a button from the gamepad, it sends a signal to the Arduino which then gives information to the Raspberry Pi to implement whatever is clicked in real life.
 
-![Controller1](./assets/Controller1.jpeg)
+![Controller](./assets/Controller1.jpeg)
 
 ## Screen & Power
 When creating a console, having a good source of power and having a reliable display can really augment the quality of gaming. So, I decided to create two variations of the console, one portable and one non-portable. Both of these options allows the user to have options when it comes to playability and comfort; depending on their situation.
