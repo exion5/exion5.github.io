@@ -32,8 +32,10 @@ The project will contain two main systems: the nightlight and the main room ligh
 
 Some may believe that two manual and override switches are unnecessary and that only one of each is needed. However, it generally makes more sense for both systems to have their specific manual switch and override switches. For example, if a person wants to have the night light automated for when they are walking to their bed at night but do not want the main light to blast them as soon as they walk in. Having two separate overrides and manual switches can allow this system to be better personalized to specific needs; thus, making it “smarter”. 
 
-<video width="320" height="240" controls loop="" muted = "" autoplay="">
- <source src="./assets/Video.mp4">
-</video>
+<p align="center">
+    <video width="720" height="540" controls loop="" muted = "" autoplay="">
+        <source src="./assets/Video.mp4">
+    </video>
+</p>
 
 [Previous Page](./)
