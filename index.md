@@ -41,7 +41,7 @@ Since I was young, I loved playing video games. This passion developed into a ho
 ### Awards & Qualifications
 - PCSS Senior Badminton MVP (_2024_)
 - Basic First Aid (_2023_)
-- Mathematica Newton Contest Honour Roll (_2022_)
+- Mathematica Newton Contest Honour Roll (_2023_)
 
 ### Current Extracurriculars
 - Lee's Badminton Elite Team (_2021 - Present_)
