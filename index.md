@@ -24,7 +24,8 @@ In the TEJ3MR course, I planned out and created a handheld gaming console for my
 [More info](./console.html)
 
 #### Smart Lights System (_November 2024_)
-will add info later
+
+[More info](./smartlights.html)
 
 ## About Me
 ### Who is Ethan Xiong?

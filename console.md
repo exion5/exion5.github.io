@@ -26,6 +26,8 @@ I wanted to make something that used all of the skills that were built in the TE
 - Thumbsticks
 - PerfBoards
 
+![ConsoleMaterials](./assets/text.jpeg)
+
 ## Controls
 One of the core aspects of gaming is being able to control your movement in an easy way. In my handheld gaming console, I used a microcontroller (Arduino Pro Micro) to control the gamepad.
 
@@ -34,7 +36,7 @@ Essentially, when you click on a button from the gamepad, it sends a signal to t
 ![Controller1](./assets/Controller1.jpeg)
 
 ## Screen & Power
-Another core aspect of gaming is being able to play your games comfortably. This is why I decided to make two configurations for the handheld; Portable and Non-Portable.
+When creating a console, having a good source of power and having a reliable display can really augment the quality of gaming. So, I decided to create two variations of the console, one portable and one non-portable. Both of these options allows the user to have options when it comes to playability and comfort; depending on their situation.
 
 ### Portable
 In the portable configuration, the console relies on an in-built screen. To allow for it to be completely portable, the handheld will also have an internal battery that can be charged and allow the user to play anywhere without having to plug the console into an outlet.
@@ -49,10 +51,14 @@ For our design, we initially wanted to design an acrylic case to showcase the in
 
 In the construction of the casing / brackets, I first needed to design the structure so I could 3D print them. So, I used OnShape to create and structure my ideas to ensure the measurements could be exact to 3D print. As I was making the designs, I first wanted to make a casing to surround the entire console. However, I realized how difficult this could be due to the margin of error and lack of 3D print resources. Eventually, I settled on creating smaller brackets to hold the console without using up too many of the resources.
 
+![Brackets](./assets/text.jpeg)
+
 ## Final Assembly
 After finishing the 3D printing, I used the brackets made to assemble the screen, battery, Raspberry Pi and controllers together with screws. 
 
+![Assembly](./assets/text.jpeg)
+
 ## Conclusion
-kjhasdkjfjkashfkjhasjkdf
+All in all, creating a handheld console came with its challenges and has ultimately enlightened my curiosity in the finer and more nuianced steps of creating a functional electronic system. Creating the console was the perfect way to cap off a course full of problem solving and critical thinking. 
 
 [Previous Page](./)
