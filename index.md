@@ -49,7 +49,3 @@ Since I was young, I loved playing video games. This passion developed into a ho
 - PCSS Robotics Team (_2024 - Present_)
 - PCSS ASA Executive (_2024 - Present_)
 - PCSS Curling Team (_2024 - Present_)
-
-### Future Goals
-
-zdjkoahafh

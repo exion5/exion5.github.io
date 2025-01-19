@@ -31,9 +31,9 @@ I wanted to make something that used all of the skills that were built in the TE
 </p>
 
 ## Controls
-One of the core aspects of gaming is being able to control your movement in an easy way. In my handheld gaming console, I used a microcontroller (Arduino Pro Micro) to control the gamepad.
+One of the core aspects of gaming is being able to control your movement in an easy way. In my handheld gaming console, I used a microcontroller (Arduino Pro Micro) to control the gamepad Essentially, when you click on a button from the gamepad, it sends a signal to the Arduino which then gives information to the Raspberry Pi to implement whatever is clicked in real life.
 
-Essentially, when you click on a button from the gamepad, it sends a signal to the Arduino which then gives information to the Raspberry Pi to implement whatever is clicked in real life.
+When creating the controllers, I soldered on the buttons and Arduino onto a prefboard which allows me to make the connections between the controller and the parts. 
 
 <p align="center">
     <img src="./assets/controllers.jpeg" width="825" height="412">
@@ -61,13 +61,13 @@ Additionally, this configuration will rely on the Raspberry Pi's in-built Blueto
 
 For our design, we initially wanted to design an acrylic case to showcase the internal components to the user to give it a futuristic look. However, we realized that we could not obtain acrylic so we improvised and just made brackets to ensure functionality. These brackets will also allow us to further develop our console in the future to possibly add acrylics.
 
-In the construction of the casing / brackets, I first needed to design the structure so I could 3D print them. So, I used OnShape to create and structure my ideas to ensure the measurements could be exact to 3D print. As I was making the designs, I first wanted to make a casing to surround the entire console. However, I realized how difficult this could be due to the margin of error and lack of 3D print resources. Eventually, I settled on creating smaller brackets to hold the console without using up too many of the resources.
+In the construction of the casing / brackets, I first needed to design the structure so I could 3D print them. So, I used OnShape to create and structure my ideas to ensure the measurements could be exact to 3D print. As I was making the designs, I first wanted to make a casing to surround the entire console. However, I realized how difficult this could be due to the margin of error and lack of 3D print resources. Eventually, I settled on creating smaller brackets along with a button shell to hold the console without using up too many of the resources.
 
 [Onshape of Brackets & Buttons](https://cad.onshape.com/documents/9f5fd6553849816f2f4eccc5/w/470c5e9b79575371b0001919/e/5ac30803e880b7f52b52bd3a?renderMode=0&uiState=678c3ad60a7cb65a2aa72f85)
 ![Onshape](./assets/Onshape.png)
 
 ## Final Assembly
-After finishing the 3D printing, I used the brackets made to assemble the screen, battery, Raspberry Pi and controllers together with screws. After connecting up the wires of all of parts together, it has turned into a fully functional handheld console!
+After finishing the 3D printing, I used the brackets made to assemble the screen, battery, Raspberry Pi and controllers together with screws. Once this was done, the connections between the parts needed to be made. So, we soldered all the parts together. After all of this, all connections were complete and I now have a fully functional handheld console. 
 
 <p align="center">
     <img src="./assets/assemblyparts.jpeg" width="825" height="515">
