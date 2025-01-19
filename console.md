@@ -34,11 +34,15 @@ One of the core aspects of gaming is being able to control your movement in an e
 Essentially, when you click on a button from the gamepad, it sends a signal to the Arduino which then gives information to the Raspberry Pi to implement whatever is clicked in real life.
 
 <p align="center">
-    ![Controllers](./assets/controllers.jpeg)
+    <img src="./assets/controllers.jpeg" width="800" height="400">
 </p>
 
 ## Screen & Power
 When creating a console, having a good source of power and having a reliable display can really augment the quality of gaming. So, I decided to create two variations of the console, one portable and one non-portable. Both of these options allows the user to have options when it comes to playability and comfort; depending on their situation.
+
+<p align="center">
+    <img src="./assets/backscreen.jpeg" width="300" height="400">
+</p>
 
 ### Portable
 In the portable configuration, the console relies on an in-built screen. To allow for it to be completely portable, the handheld will also have an internal battery that can be charged and allow the user to play anywhere without having to plug the console into an outlet.
@@ -50,7 +54,7 @@ Additionally, this configuration will rely on the Raspberry Pi's in-built Blueto
 
 ## Console Housing
 <p align="center">
-    <img src="./assets/brackets.jpeg" width="350" height="300"> <img src="./assets/controllershell.jpg" width="400" height="300">
+    <img src="./assets/brackets.jpeg" width="385" height="330"> <img src="./assets/controllershell.jpg" width="440" height="330">
 </p>
 
 For our design, we initially wanted to design an acrylic case to showcase the internal components to the user to give it a futuristic look. However, we realized that we could not obtain acrylic so we improvised and just made brackets to ensure functionality. These brackets will also allow us to further develop our console in the future to possibly add acrylics.
@@ -64,7 +68,7 @@ In the construction of the casing / brackets, I first needed to design the struc
 After finishing the 3D printing, I used the brackets made to assemble the screen, battery, Raspberry Pi and controllers together with screws. 
 
 <p align="center">
-    ![Assembly](./assets/assemblyparts.jpeg)
+    <img src="./assets/assemblyparts.jpeg" width="800" height="500">
 </p>
 
 ## Conclusion
