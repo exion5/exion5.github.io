@@ -26,14 +26,18 @@ I wanted to make something that used all of the skills that were built in the TE
 - Thumbsticks
 - PerfBoards
 
-![Raspberry Pi](./assets/raspberrypi.jpg.jpeg)
+![Raspberry Pi](./assets/raspberrypi.jpg)
 
 ## Controls
 One of the core aspects of gaming is being able to control your movement in an easy way. In my handheld gaming console, I used a microcontroller (Arduino Pro Micro) to control the gamepad.
 
 Essentially, when you click on a button from the gamepad, it sends a signal to the Arduino which then gives information to the Raspberry Pi to implement whatever is clicked in real life.
 
+<<<<<<< HEAD
 ![Controllers](./assets/controllers.jpeg)
+=======
+![Controller](./assets/Controller1.jpg)
+>>>>>>> a7302ae8d0cd7530578383d2fb229f48730a3117
 
 ## Screen & Power
 When creating a console, having a good source of power and having a reliable display can really augment the quality of gaming. So, I decided to create two variations of the console, one portable and one non-portable. Both of these options allows the user to have options when it comes to playability and comfort; depending on their situation.
@@ -47,7 +51,11 @@ Unlike the portable configuration, the non-portable setup will not have a built-
 Additionally, this configuration will rely on the Raspberry Pi's in-built Bluetooth to allow for pairing with external gamepads and allow multiple people to play together. Alternatively, the option to use the built-in controls will always be available.
 
 ## Console Housing
+<<<<<<< HEAD
 <img src="./assets/brackets.jpeg" width="300" height="300"> <img src="./assets/controllershell.jpg" width="400" height="300">
+=======
+![Brackets](./assets/text.jpg)
+>>>>>>> a7302ae8d0cd7530578383d2fb229f48730a3117
 
 For our design, we initially wanted to design an acrylic case to showcase the internal components to the user to give it a futuristic look. However, we realized that we could not obtain acrylic so we improvised and just made brackets to ensure functionality. These brackets will also allow us to further develop our console in the future to possibly add acrylics.
 
@@ -59,7 +67,11 @@ In the construction of the casing / brackets, I first needed to design the struc
 ## Final Assembly
 After finishing the 3D printing, I used the brackets made to assemble the screen, battery, Raspberry Pi and controllers together with screws. 
 
+<<<<<<< HEAD
 ![Assembly](./assets/assemblyparts.jpeg)
+=======
+![Assembly](./assets/text.jpg)
+>>>>>>> a7302ae8d0cd7530578383d2fb229f48730a3117
 
 ## Conclusion
 All in all, creating a handheld console came with its challenges and has ultimately enlightened my curiosity in the finer and more nuianced steps of creating a functional electronic system. Creating the console was the perfect way to cap off a course full of problem solving and critical thinking. 
