@@ -19,7 +19,7 @@ Inputs:
 - Light sensor/photoresistor
 - Motion sensor/PIR
 - Manual nightlight switch
-- anual room light switch
+- Manual room light switch
 - Nightlight sensor override
 - Room light sensor override
 
