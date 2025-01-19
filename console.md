@@ -26,7 +26,9 @@ I wanted to make something that used all of the skills that were built in the TE
 - Thumbsticks
 - PerfBoards
 
-![Raspberry Pi](./assets/raspberrypi.jpg)
+<p align="center">
+    <img src="./assets/raspberrypi.jpg" width="400" height="300">
+</p>
 
 ## Controls
 One of the core aspects of gaming is being able to control your movement in an easy way. In my handheld gaming console, I used a microcontroller (Arduino Pro Micro) to control the gamepad.
@@ -34,7 +36,7 @@ One of the core aspects of gaming is being able to control your movement in an e
 Essentially, when you click on a button from the gamepad, it sends a signal to the Arduino which then gives information to the Raspberry Pi to implement whatever is clicked in real life.
 
 <p align="center">
-    <img src="./assets/controllers.jpeg" width="800" height="400">
+    <img src="./assets/controllers.jpeg" width="825" height="412">
 </p>
 
 ## Screen & Power
@@ -65,13 +67,17 @@ In the construction of the casing / brackets, I first needed to design the struc
 ![Onshape](./assets/Onshape.png)
 
 ## Final Assembly
-After finishing the 3D printing, I used the brackets made to assemble the screen, battery, Raspberry Pi and controllers together with screws. 
+After finishing the 3D printing, I used the brackets made to assemble the screen, battery, Raspberry Pi and controllers together with screws. After connecting up the wires of all of parts together, it has turned into a fully functional handheld console!
 
 <p align="center">
-    <img src="./assets/assemblyparts.jpeg" width="800" height="500">
+    <img src="./assets/assemblyparts.jpeg" width="825" height="515">
 </p>
 
 ## Conclusion
-All in all, creating a handheld console came with its challenges and has ultimately enlightened my curiosity in the finer and more nuianced steps of creating a functional electronic system. Creating the console was the perfect way to cap off a course full of problem solving and critical thinking. 
+All in all, creating a handheld console came with its challenges and has ultimately enlightened my curiosity in the finer and more nuanced steps of creating a functional electronic system. Creating the console was the perfect way to cap off a course full of problem solving and critical thinking. 
+
+<p align="center">
+    <img src="./assets/text.jpeg" width="385" height="330">
+</p>
 
 [Previous Page](./)
