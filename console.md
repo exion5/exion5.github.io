@@ -72,12 +72,15 @@ After finishing the 3D printing, I used the brackets made to assemble the screen
 <p align="center">
     <img src="./assets/assemblyparts.jpeg" width="825" height="515">
 </p>
+<p align="center">
+    <img src="./assets/product.jpg" width="825" height="415">
+</p>
 
 ## Conclusion
 All in all, creating a handheld console came with its challenges and has ultimately enlightened my curiosity in the finer and more nuanced steps of creating a functional electronic system. Creating the console was the perfect way to cap off a course full of problem solving and critical thinking. 
 
 <p align="center">
-    <img src="./assets/text.jpeg" width="385" height="330">
+    <img src="./assets/playing.jpg" width="825" height="620">
 </p>
 
 [Previous Page](./)
