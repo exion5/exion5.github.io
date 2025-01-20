@@ -33,7 +33,7 @@ I wanted to make something that used all of the skills that were built in the TE
 ## Controls
 One of the core aspects of gaming is being able to control your movement in an easy way. In my handheld gaming console, I used a microcontroller (Arduino Pro Micro) to control the gamepad Essentially, when you click on a button from the gamepad, it sends a signal to the Arduino which then gives information to the Raspberry Pi to implement whatever is clicked in real life.
 
-When creating the controllers, I soldered on the buttons and Arduino onto a prefboard which allows me to make the connections between the controller and the parts. 
+When creating the controllers, I soldered on the buttons and Arduino onto a perfboard which allows me to make the connections between the controller and the parts. 
 
 <p align="center">
     <img src="./assets/controllers.jpeg" width="825" height="412">
