@@ -17,19 +17,9 @@ description: Aspiring Engineering Student
 
 * * *
 
-## Projects
-#### Handheld Console (_January 2025_)
-In the TEJ3MR course, I planned out and created a handheld gaming console for my final project in the course. This project demonstrated my ability to design and construct an electronic device.
-
-[More info](./console.html)
-
-#### Smart Lights System (_November 2024_)
-
-[More info](./smartlights.html)
-
 ## About Me
 ### Who is Ethan Xiong?
-Currently, I am a high school student with a passion in engineering and the desire to create innovative designs in my career. 
+Currently, I am a high school student with a passion in engineering and the desire to create innovative designs in my career. I am currently planning to enter the top university in Canada in Electrical Engineering to further pursue my interests in engineering and electrical systems.
 
 Since I was young, I loved playing video games. This passion developed into a hobby of learning about computers. Overtime, my knowledge expanded and I realized a career in engineering is what I wanted. Solving problems and critical thinking were valuable skills I learned when I was younger that have transitioned into giving me the experience needed to make steps to become an engineer.
 
@@ -49,3 +39,14 @@ Since I was young, I loved playing video games. This passion developed into a ho
 - PCSS Robotics Team (_2024 - Present_)
 - PCSS ASA Executive (_2024 - Present_)
 - PCSS Curling Team (_2024 - Present_)
+- PCSS Badminton Club Head Mentor (_2024 - Present_)
+
+## Projects
+#### Handheld Console (_January 2025_)
+In the TEJ3MR course, I planned out and created a handheld gaming console for my final project in the course. This project demonstrated my ability to design and construct an electronic device.
+
+[More info](./console.html)
+
+#### Smart Lights System (_November 2024_)
+
+[More info](./smartlights.html)
