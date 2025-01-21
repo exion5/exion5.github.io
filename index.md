@@ -45,8 +45,14 @@ Since I was young, I loved playing video games. This passion developed into a ho
 #### Handheld Console (_January 2025_)
 In the TEJ3MR course, I planned out and created a handheld gaming console for my final project in the course. This project demonstrated my ability to design and construct an electronic device.
 
+<p align="center">
+    <img src="./assets/playing.jpg" width="825" height="620">
+</p>
+
 [More info](./console.html)
 
 #### Smart Lights System (_November 2024_)
+
+![Lights](./assets/Lights.jpeg)
 
 [More info](./smartlights.html)
